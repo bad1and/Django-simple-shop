@@ -1,7 +1,7 @@
 <h1 align="center">Simple shop on Django</h1>
 
 **Стек технологий:**
-**Django\SQLite**
+**Django\SQLite\Docker**
 
 ## To copy proj:
 
